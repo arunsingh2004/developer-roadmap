@@ -1,0 +1,9 @@
+Front-End is the UI (User Interface), it deals with the website’s overall appearance, on how interactive and dynamic it is. For mastering it, get clear with all the elements of HTML, CSS, and JavaScript.
+
+HTML (HyperText Markup Language) – Start with the basic application of HTML by creating a small website that includes all the elements. Play with tables, and forms, and try adding images and links to the website to make it more eye-catching which in return makes your work efficient. Click here to read about the conventions and best practices of HTML.  
+ 
+CSS (Cascading Style Sheets) – If you’re a person who loves creativity, you must go through CSS. Using CSS, you can add colors to your website, give borders to the headings or paragraphs, build the navigation bar, play with the icons, font, and text, and many more things like that. Make the website responsive i.e., how it looks on different screen sizes. The most popular CSS framework used is Bootstrap.
+ 
+JavaScript – This is the programming language of the web. Learn about DOM (Document Object Model), and API (Application Program Interface) properly.
+ 
+Frameworks – It is a platform for building software applications. It includes programs, code libraries, and compilers which when brought together enable the development of a project or system. These frameworks make components reusable. Examples of frameworks are – React, Angular, Vue, etc. 
